@@ -1,6 +1,6 @@
 # fuzztube
 
-simple cli to get a high-quality audio file from a yoube video",
+cli to get a high-quality audio file from a yoube video
 
 ## install
 
