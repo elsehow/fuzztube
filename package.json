@@ -1,7 +1,7 @@
 {
   "name": "fuzztube",
-  "version": "1.0.1",
-  "description": "simple cli to get a high-quality audio file from a yoube video",
+  "version": "1.0.2",
+  "description": "simple cli to get a high-quality audio file from a youtube video",
   "main": "fuzztube",
   "bin": {
     "fuzztube": "fuzztube"
