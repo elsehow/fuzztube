@@ -1,6 +1,6 @@
 {
   "name": "fuzztube",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple cli to get a high-quality audio file from a yoube video",
   "main": "fuzztube",
   "bin": {
@@ -10,5 +10,20 @@
     "start": "./fuzztube"
   },
   "author": "elsehow",
-  "license": "BSD"
+  "license": "BSD-3-Clause",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsehow/fuzztube.git"
+  },
+  "keywords": [
+    "youtube-dl",
+    "youtube",
+    "audio"
+  ],
+  "bugs": {
+    "url": "https://github.com/elsehow/fuzztube/issues"
+  },
+  "homepage": "https://github.com/elsehow/fuzztube#readme"
 }
