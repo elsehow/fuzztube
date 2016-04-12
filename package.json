@@ -1,0 +1,14 @@
+{
+  "name": "fuzztube",
+  "version": "1.0.0",
+  "description": "simple cli to get a high-quality audio file from a yoube video",
+  "main": "fuzztube",
+  "bin": {
+    "fuzztube": "fuzztube"
+  },
+  "scripts": {
+    "start": "./fuzztube"
+  },
+  "author": "elsehow",
+  "license": "BSD"
+}
